@@ -34,7 +34,12 @@ public class QuoteResource {
 		insuranceTypes.add("Auto");
 		insuranceTypes.add("Home");
 		insuranceTypes.add("Marine");
+<<<<<<< HEAD
 		insuranceTypes.add("Life");
+=======
+//		insuranceTypes.add("Pet");
+//		insuranceTypes.add("Life");
+>>>>>>> origin/master
 //		insuranceTypes.add("Equine");
 		return insuranceTypes;
 	}
